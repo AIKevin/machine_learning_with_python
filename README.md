@@ -3,15 +3,15 @@ Here is a Python version of my R machine learning courses I have been following 
 
 The topics covered by these courses are:
 
-  -Simple Linear Regression
+    -Simple Linear Regression
 
-  -Multiple Linear Regression
+    -Multiple Linear Regression
 
-  -Logistic Regression
+    -Logistic Regression
 
-  -Discriminant Analysis
+    -Discriminant Analysis
 
-  -Principal Component Analysis
+    -Principal Component Analysis
 
 
 Using Pandas, Numpy and Sci-Kit Learn.
